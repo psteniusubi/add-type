@@ -1,7 +1,6 @@
-#if Desktop
 using System;
 using System.Collections;
-#endif
+
 namespace MyTypes {
 	public class Type1 {
 		public Type1(Hashtable args) { }

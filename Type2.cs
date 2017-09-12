@@ -1,6 +1,5 @@
-#if Desktop
 using System;
-#endif
+
 namespace MyTypes {
 	public class Type2 {
 		private Type1 owner;
